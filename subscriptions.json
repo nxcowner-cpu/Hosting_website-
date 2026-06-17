@@ -1,0 +1,41 @@
+{
+  "uditgaming": {
+    "plan": "starter",
+    "expires": null,
+    "active": true,
+    "purchased_at": "2026-05-05T22:15:13.354573",
+    "payment_status": "none"
+  },
+  "LAM": {
+    "plan": "enterprise",
+    "expires": "2026-06-05T00:16:14.493672",
+    "active": true,
+    "purchased_at": "2026-05-06T00:16:14.493792",
+    "payment_status": "completed",
+    "payment_id": "0b84dacd-60a0-4530-a050-12f1f6ec6e05"
+  },
+  "Iamarru": {
+    "plan": "enterprise",
+    "expires": null,
+    "active": false,
+    "purchased_at": "2026-05-07T13:07:13.673157",
+    "payment_status": "pending",
+    "payment_id": "6e219cb9-1f35-4fd2-96ae-d7c28b37320b"
+  },
+  "iamarru": {
+    "plan": "enterprise",
+    "expires": "2026-06-06T11:50:34.714839",
+    "active": true,
+    "purchased_at": "2026-05-07T11:50:34.714934",
+    "payment_status": "completed",
+    "payment_id": "0e17e9e4-605c-4800-9292-f998721cd050"
+  },
+  "iamarru09": {
+    "plan": "pro",
+    "expires": null,
+    "active": false,
+    "purchased_at": "2026-06-17T23:37:37.691586",
+    "payment_status": "pending",
+    "payment_id": "918484be-909e-4d80-8ae3-fea1562638d3"
+  }
+}
