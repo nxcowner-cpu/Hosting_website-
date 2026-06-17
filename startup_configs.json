@@ -1,0 +1,11 @@
+{
+  "uditgaming/TCPbot": {
+    "file": "main.py"
+  },
+  "LAM/TCPbot": {
+    "file": "main.py"
+  },
+  "iamarru/main": {
+    "file": "main.py"
+  }
+}
